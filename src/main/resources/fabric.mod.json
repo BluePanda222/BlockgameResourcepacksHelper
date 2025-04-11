@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "blockgameresourcepack",
+  "version": "${version}",
+  "name": "Blockgame Resourcepacks",
+  "description": "(Unofficial) Adds interconnection between resourcepacks and items in Blockgame",
+  "authors": [
+    "BluePanda22 - Creator, Developer"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/blockgameresourcepacks/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.bluepanda22.blockgameresourcepacks.Main"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.13",
+    "fabric": "*"
+  }
+}
