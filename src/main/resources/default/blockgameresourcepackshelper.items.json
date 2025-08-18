@@ -1,0 +1,1767 @@
+{
+  "CACTUS_HELMET": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 38400
+  },
+  "CACTUS_CHESTPLATE": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 38400
+  },
+  "CACTUS_LEGGINGS": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 38400
+  },
+  "CACTUS_BOOTS": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 38400
+  },
+  "STONE_HELMET": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 6579300
+  },
+  "STONE_CHESTPLATE": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 6579300
+  },
+  "STONE_LEGGINGS": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 6579300
+  },
+  "STONE_BOOTS": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 6579300
+  },
+  "MYTHRIL_HELMET": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:chainmail_helmet"
+  },
+  "MYTHRIL_CHESTPLATE": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:chainmail_chestplate"
+  },
+  "MYTHRIL_LEGGINGS": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:chainmail_leggings"
+  },
+  "MYTHRIL_BOOTS": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:chainmail_boots"
+  },
+  "BLOODSNOUT_SLAYER_HELMET": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_helmet"
+  },
+  "BLOODSNOUT_SLAYER_CHESTPLATE": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_chestplate"
+  },
+  "BLOODSNOUT_SLAYER_LEGGINGS": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_leggings"
+  },
+  "BLOODSNOUT_SLAYER_BOOTS": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_boots"
+  },
+  "MONTU_HELMET": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_helmet"
+  },
+  "MONTU_CHESTPLATE": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_chestplate"
+  },
+  "MONTU_LEGGINGS": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_leggings"
+  },
+  "MONTU_BOOTS": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_boots"
+  },
+  "WARRIORS_HELMET": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:chainmail_helmet"
+  },
+  "WARRIORS_CHESTPLATE": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:chainmail_chestplate"
+  },
+  "WARRIORS_LEGGINGS": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:chainmail_leggings"
+  },
+  "WARRIORS_BOOTS": {
+    "SET": "SET_WARRIOR",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:chainmail_boots"
+  },
+
+  "WOODEN_HELMET": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 8606770
+  },
+  "WOODEN_CHESTPLATE": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 8606770
+  },
+  "WOODEN_LEGGINGS": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 8606770
+  },
+  "WOODEN_BOOTS": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 8606770
+  },
+  "COPPER_HELMET": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 10637879
+  },
+  "COPPER_CHESTPLATE": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 10637879
+  },
+  "COPPER_LEGGINGS": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 10637879
+  },
+  "COPPER_BOOTS": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 10637879
+  },
+  "STEEL_HELMET": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:iron_helmet"
+  },
+  "STEEL_CHESTPLATE": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:iron_chestplate"
+  },
+  "STEEL_LEGGINGS": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:iron_leggings"
+  },
+  "STEEL_BOOTS": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:iron_boots"
+  },
+  "BLOODSNOUT_BRUTE_HELMET": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_helmet"
+  },
+  "BLOODSNOUT_BRUTE_CHESTPLATE": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_chestplate"
+  },
+  "BLOODSNOUT_BRUTE_LEGGINGS": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_leggings"
+  },
+  "BLOODSNOUT_BRUTE_BOOTS": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_boots"
+  },
+  "MAAHES_HELMET": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_helmet"
+  },
+  "MAAHES_CHESTPLATE": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_chestplate"
+  },
+  "MAAHES_LEGGINGS": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_leggings"
+  },
+  "MAAHES_BOOTS": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_boots"
+  },
+  "GUARDIAN_HELMET": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:diamond_helmet"
+  },
+  "GUARDIAN_CHESTPLATE": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:diamond_chestplate"
+  },
+  "GUARDIAN_LEGGINGS": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:diamond_leggings"
+  },
+  "GUARDIAN_BOOTS": {
+    "SET": "SET_GUARDIAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:diamond_boots"
+  },
+
+  "SHOTCALLER_HELMET": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 11827264
+  },
+  "SHOTCALLER_CHESTPLATE": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 11827264
+  },
+  "SHOTCALLER_LEGGINGS": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 11827264
+  },
+  "SHOTCALLER_BOOTS": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 11827264
+  },
+  "RANGER_HELMET": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 7910464
+  },
+  "RANGER_CHESTPLATE": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 7910464
+  },
+  "RANGER_LEGGINGS": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 7910464
+  },
+  "RANGER_BOOTS": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 7910464
+  },
+  "SHARPSHOOTER_HELMET": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 657930
+  },
+  "SHARPSHOOTER_CHESTPLATE": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 657930
+  },
+  "SHARPSHOOTER_LEGGINGS": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 657930
+  },
+  "SHARPSHOOTER_BOOTS": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 657930
+  },
+  "BLOODSNOUT_RANGER_HELMET": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_helmet"
+  },
+  "BLOODSNOUT_RANGER_CHESTPLATE": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_chestplate"
+  },
+  "BLOODSNOUT_RANGER_LEGGINGS": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_leggings"
+  },
+  "BLOODSNOUT_RANGER_BOOTS": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:golden_boots"
+  },
+  "SATET_HELMET": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 16762950
+  },
+  "SATET_CHESTPLATE": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 16762950
+  },
+  "SATET_LEGGINGS": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 16762950
+  },
+  "SATET_BOOTS": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 16762950
+  },
+  "MARKSMAN_HELMET": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:chainmail_helmet"
+  },
+  "MARKSMAN_CHESTPLATE": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:chainmail_chestplate"
+  },
+  "MARKSMAN_LEGGINGS": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:chainmail_leggings"
+  },
+  "MARKSMAN_BOOTS": {
+    "SET": "SET_RANGER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:chainmail_boots"
+  },
+
+  "SILK_HELMET": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 14474460
+  },
+  "SILK_CHESTPLATE": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 14474460
+  },
+  "SILK_LEGGINGS": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 14474460
+  },
+  "SILK_BOOTS": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 14474460
+  },
+  "SPARKING_SILK_HELMET": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 14430770
+  },
+  "SPARKING_SILK_CHESTPLATE": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 14430770
+  },
+  "SPARKING_SILK_LEGGINGS": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 14430770
+  },
+  "SPARKING_SILK_BOOTS": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 14430770
+  },
+  "ACOLYTE_HELMET": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 657930
+  },
+  "ACOLYTE_CHESTPLATE": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 657930
+  },
+  "ACOLYTE_LEGGINGS": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 657930
+  },
+  "ACOLYTE_BOOTS": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 657930
+  },
+  "BLOODSNOUT_MAGI_HELMET": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 15078420
+  },
+  "BLOODSNOUT_MAGI_CHESTPLATE": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 15078420
+  },
+  "BLOODSNOUT_MAGI_LEGGINGS": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 15078420
+  },
+  "BLOODSNOUT_MAGI_BOOTS": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 15078420
+  },
+  "DJEDI_HELMET": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 16711680
+  },
+  "DJEDI_CHESTPLATE": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 16711680
+  },
+  "DJEDI_LEGGINGS": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 16711680
+  },
+  "DJEDI_BOOTS": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 16711680
+  },
+  "WIZARDS_HELMET": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 5898370
+  },
+  "WIZARDS_CHESTPLATE": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 5898370
+  },
+  "WIZARDS_LEGGINGS": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 5898370
+  },
+  "WIZARDS_BOOTS": {
+    "SET": "SET_WIZARD",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 5898370
+  },
+
+  "WOOL_HELMET": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 15132390
+  },
+  "WOOL_CHESTPLATE": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 15132390
+  },
+  "WOOL_LEGGINGS": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 15132390
+  },
+  "WOOL_BOOTS": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 15132390
+  },
+  "BLESSED_WOOL_HELMET": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 15790320
+  },
+  "BLESSED_WOOL_CHESTPLATE": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 15790320
+  },
+  "BLESSED_WOOL_LEGGINGS": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 15790320
+  },
+  "BLESSED_WOOL_BOOTS": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 15790320
+  },
+  "SANCTIFIED_HELMET": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 16777160
+  },
+  "SANCTIFIED_CHESTPLATE": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 16777160
+  },
+  "SANCTIFIED_LEGGINGS": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 16777160
+  },
+  "SANCTIFIED_BOOTS": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 16777160
+  },
+  "BLOODSNOUT_HEALER_HELMET": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 16777110
+  },
+  "BLOODSNOUT_HEALER_CHESTPLATE": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 16777110
+  },
+  "BLOODSNOUT_HEALER_LEGGINGS": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 16777110
+  },
+  "BLOODSNOUT_HEALER_BOOTS": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 16777110
+  },
+  "HEKA_HELMET": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 16777060
+  },
+  "HEKA_CHESTPLATE": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 16777060
+  },
+  "HEKA_LEGGINGS": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 16777060
+  },
+  "HEKA_BOOTS": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 16777060
+  },
+  "THAUMATURGE_HELMET": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 16777010
+  },
+  "THAUMATURGE_CHESTPLATE": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 16777010
+  },
+  "THAUMATURGE_LEGGINGS": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 16777010
+  },
+  "THAUMATURGE_BOOTS": {
+    "SET": "SET_THAUMATURGE",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 16777010
+  },
+
+  "ONION_HELMET": {
+    "SET": "ONION",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 8289792
+  },
+  "ONION_CHESTPLATE": {
+    "SET": "ONION",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 8289792
+  },
+  "ONION_LEGGINGS": {
+    "SET": "ONION",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 8289792
+  },
+  "ONION_BOOTS": {
+    "SET": "ONION",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 8289792
+  },
+
+  "ALCHEMIST_HELMET_1": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 16414840,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_CHESTPLATE_1": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 16414840,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_LEGGINGS_1": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 16414840,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_BOOTS_1": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 16414840,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_HELMET_2": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 15098980,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_CHESTPLATE_2": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 15098980,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_LEGGINGS_2": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 15098980,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_BOOTS_2": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 15098980,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_HELMET_3": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 13783120,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_CHESTPLATE_3": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 13783120,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_LEGGINGS_3": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 13783120,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_BOOTS_3": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 13783120,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_HELMET_4": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 12467260,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_CHESTPLATE_4": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 12467260,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_LEGGINGS_4": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 12467260,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_BOOTS_4": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 12467260,
+    "material": "minecraft:iron",
+    "pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_HELMET_5": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 11151400,
+    "material": "minecraft:gold",
+	"pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_CHESTPLATE_5": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 11151400,
+    "material": "minecraft:gold",
+	"pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_LEGGINGS_5": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 11151400,
+    "material": "minecraft:gold",
+	"pattern": "minecraft:shaper"
+  },
+  "ALCHEMIST_BOOTS_5": {
+    "SET": "SET_ALCHEMIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 11151400,
+    "material": "minecraft:gold",
+	"pattern": "minecraft:shaper"
+  },
+
+  "ARCHAEOLOGIST_HELMET_1": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 15790180
+  },
+  "ARCHAEOLOGIST_CHESTPLATE_1": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 15790180
+  },
+  "ARCHAEOLOGIST_LEGGINGS_1": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 15790180
+  },
+  "ARCHAEOLOGIST_BOOTS_1": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 15790180
+  },
+  "ARCHAEOLOGIST_HELMET_2": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 14474320
+  },
+  "ARCHAEOLOGIST_CHESTPLATE_2": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 14474320
+  },
+  "ARCHAEOLOGIST_LEGGINGS_2": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 14474320
+  },
+  "ARCHAEOLOGIST_BOOTS_2": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 14474320
+  },
+  "ARCHAEOLOGIST_HELMET_3": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 13158460
+  },
+  "ARCHAEOLOGIST_CHESTPLATE_3": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 13158460
+  },
+  "ARCHAEOLOGIST_LEGGINGS_3": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 13158460
+  },
+  "ARCHAEOLOGIST_BOOTS_3": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 13158460
+  },
+  "ARCHAEOLOGIST_HELMET_4": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 11842600
+  },
+  "ARCHAEOLOGIST_CHESTPLATE_4": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 11842600
+  },
+  "ARCHAEOLOGIST_LEGGINGS_4": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 11842600
+  },
+  "ARCHAEOLOGIST_BOOTS_4": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 11842600
+  },
+  "ARCHAEOLOGIST_HELMET_5": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 10526740
+  },
+  "ARCHAEOLOGIST_CHESTPLATE_5": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 10526740
+  },
+  "ARCHAEOLOGIST_LEGGINGS_5": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 10526740
+  },
+  "ARCHAEOLOGIST_BOOTS_5": {
+    "SET": "SET_ARCHAEOLOGIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 10526740
+  },
+
+  "BOTANIST_HELMET_1": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 7928440
+  },
+  "BOTANIST_CHESTPLATE_1": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 7928440
+  },
+  "BOTANIST_LEGGINGS_1": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 7928440
+  },
+  "BOTANIST_BOOTS_1": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 7928440
+  },
+  "BOTANIST_HELMET_2": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 6612580
+  },
+  "BOTANIST_CHESTPLATE_2": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 6612580
+  },
+  "BOTANIST_LEGGINGS_2": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 6612580
+  },
+  "BOTANIST_BOOTS_2": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 6612580
+  },
+  "BOTANIST_HELMET_3": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 5296720
+  },
+  "BOTANIST_CHESTPLATE_3": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 5296720
+  },
+  "BOTANIST_LEGGINGS_3": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 5296720
+  },
+  "BOTANIST_BOOTS_3": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 5296720
+  },
+  "BOTANIST_HELMET_4": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 3980860
+  },
+  "BOTANIST_CHESTPLATE_4": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 3980860
+  },
+  "BOTANIST_LEGGINGS_4": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 3980860
+  },
+  "BOTANIST_BOOTS_4": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 3980860
+  },
+  "BOTANIST_HELMET_5": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 2665000
+  },
+  "BOTANIST_CHESTPLATE_5": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 2665000
+  },
+  "BOTANIST_LEGGINGS_5": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 2665000
+  },
+  "BOTANIST_BOOTS_5": {
+    "SET": "SET_BOTANIST",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 2665000
+  },
+
+  "CHEF_HELMET_1": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 16777215
+  },
+  "CHEF_CHESTPLATE_1": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 16777215
+  },
+  "CHEF_LEGGINGS_1": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 16777215
+  },
+  "CHEF_BOOTS_1": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 16777215
+  },
+  "CHEF_HELMET_2": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 15461355
+  },
+  "CHEF_CHESTPLATE_2": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 15461355
+  },
+  "CHEF_LEGGINGS_2": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 15461355
+  },
+  "CHEF_BOOTS_2": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 15461355
+  },
+  "CHEF_HELMET_3": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 14145495
+  },
+  "CHEF_CHESTPLATE_3": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 14145495
+  },
+  "CHEF_LEGGINGS_3": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 14145495
+  },
+  "CHEF_BOOTS_3": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 14145495
+  },
+  "CHEF_HELMET_4": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 12829635
+  },
+  "CHEF_CHESTPLATE_4": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 12829635
+  },
+  "CHEF_LEGGINGS_4": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 12829635
+  },
+  "CHEF_BOOTS_4": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 12829635
+  },
+  "CHEF_HELMET_5": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 11513775,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:shaper"
+  },
+  "CHEF_CHESTPLATE_5": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 11513775,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:shaper"
+  },
+  "CHEF_LEGGINGS_5": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 11513775,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:shaper"
+  },
+  "CHEF_BOOTS_5": {
+    "SET": "SET_CHEF",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 11513775,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:shaper"
+  },
+
+  "FISHERMAN_HELMET_1": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 7895290
+  },
+  "FISHERMAN_CHESTPLATE_1": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 7895290
+  },
+  "FISHERMAN_LEGGINGS_1": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 7895290
+  },
+  "FISHERMAN_BOOTS_1": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 7895290
+  },
+  "FISHERMAN_HELMET_2": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 6579430
+  },
+  "FISHERMAN_CHESTPLATE_2": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 6579430
+  },
+  "FISHERMAN_LEGGINGS_2": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 6579430
+  },
+  "FISHERMAN_BOOTS_2": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 6579430
+  },
+  "FISHERMAN_HELMET_3": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 5263570
+  },
+  "FISHERMAN_CHESTPLATE_3": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 5263570
+  },
+  "FISHERMAN_LEGGINGS_3": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 5263570
+  },
+  "FISHERMAN_BOOTS_3": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 5263570
+  },
+  "FISHERMAN_HELMET_4": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 3947710
+  },
+  "FISHERMAN_CHESTPLATE_4": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 3947710
+  },
+  "FISHERMAN_LEGGINGS_4": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 3947710
+  },
+  "FISHERMAN_BOOTS_4": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 3947710
+  },
+  "FISHERMAN_HELMET_5": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 2631850
+  },
+  "FISHERMAN_CHESTPLATE_5": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 2631850
+  },
+  "FISHERMAN_LEGGINGS_5": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 2631850
+  },
+  "FISHERMAN_BOOTS_5": {
+    "SET": "SET_FISHERMAN",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 2631850
+  },
+
+  "LUMBERJACK_HELMET_1": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 15764580
+  },
+  "LUMBERJACK_CHESTPLATE_1": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 15764580
+  },
+  "LUMBERJACK_LEGGINGS_1": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 15764580
+  },
+  "LUMBERJACK_BOOTS_1": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 15764580
+  },
+  "LUMBERJACK_HELMET_2": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 14448720
+  },
+  "LUMBERJACK_CHESTPLATE_2": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 14448720
+  },
+  "LUMBERJACK_LEGGINGS_2": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 14448720
+  },
+  "LUMBERJACK_BOOTS_2": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 14448720
+  },
+  "LUMBERJACK_HELMET_3": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 13132860
+  },
+  "LUMBERJACK_CHESTPLATE_3": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 13132860
+  },
+  "LUMBERJACK_LEGGINGS_3": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 13132860
+  },
+  "LUMBERJACK_BOOTS_3": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 13132860
+  },
+  "LUMBERJACK_HELMET_4": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 11817000
+  },
+  "LUMBERJACK_CHESTPLATE_4": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 11817000
+  },
+  "LUMBERJACK_LEGGINGS_4": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 11817000
+  },
+  "LUMBERJACK_BOOTS_4": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 11817000
+  },
+  "LUMBERJACK_HELMET_5": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 10501140
+  },
+  "LUMBERJACK_CHESTPLATE_5": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 10501140
+  },
+  "LUMBERJACK_LEGGINGS_5": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 10501140
+  },
+  "LUMBERJACK_BOOTS_5": {
+    "SET": "SET_LUMBERJACK",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 10501140
+  },
+
+  "MINER_HELMET_1": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 14474460
+  },
+  "MINER_CHESTPLATE_1": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 14474460
+  },
+  "MINER_LEGGINGS_1": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 14474460
+  },
+  "MINER_BOOTS_1": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 14474460
+  },
+  "MINER_HELMET_2": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 13158600
+  },
+  "MINER_CHESTPLATE_2": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 13158600
+  },
+  "MINER_LEGGINGS_2": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 13158600
+  },
+  "MINER_BOOTS_2": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 13158600
+  },
+  "MINER_HELMET_3": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 11842740
+  },
+  "MINER_CHESTPLATE_3": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 11842740
+  },
+  "MINER_LEGGINGS_3": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 11842740
+  },
+  "MINER_BOOTS_3": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 11842740
+  },
+  "MINER_HELMET_4": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 10526880
+  },
+  "MINER_CHESTPLATE_4": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 10526880
+  },
+  "MINER_LEGGINGS_4": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 10526880
+  },
+  "MINER_BOOTS_4": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 10526880
+  },
+  "MINER_HELMET_5": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 9211020
+  },
+  "MINER_CHESTPLATE_5": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 9211020
+  },
+  "MINER_LEGGINGS_5": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 9211020
+  },
+  "MINER_BOOTS_5": {
+    "SET": "SET_MINER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 9211020
+  },
+
+  "RUNECARVER_HELMET_1": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 15728880,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_CHESTPLATE_1": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 15728880,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_LEGGINGS_1": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 15728880,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_BOOTS_1": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 15728880,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_HELMET_2": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 14418140,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_CHESTPLATE_2": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 14418140,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_LEGGINGS_2": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 14418140,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_BOOTS_2": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 14418140,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_HELMET_3": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 13107400,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_CHESTPLATE_3": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 13107400,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_LEGGINGS_3": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 13107400,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_BOOTS_3": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 13107400,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_HELMET_4": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 11796660,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_CHESTPLATE_4": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 11796660,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_LEGGINGS_4": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 11796660,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_BOOTS_4": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 11796660,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_HELMET_5": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_helmet",
+    "color": 10485920,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_CHESTPLATE_5": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_chestplate",
+    "color": 10485920,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_LEGGINGS_5": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_leggings",
+    "color": 10485920,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  },
+  "RUNECARVER_BOOTS_5": {
+    "SET": "SET_RUNECARVER",
+    "ITEM_TYPE": "ARMOR",
+    "MC_ITEM_ID": "minecraft:leather_boots",
+    "color": 10485920,
+    "material": "minecraft:gold",
+    "pattern": "minecraft:ward"
+  }
+}

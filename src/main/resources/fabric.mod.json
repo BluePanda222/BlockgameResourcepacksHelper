@@ -1,24 +1,55 @@
 {
   "schemaVersion": 1,
-  "id": "blockgameresourcepack",
+  "id": "blockgameresourcepackshelper",
   "version": "${version}",
-  "name": "Blockgame Resourcepacks",
-  "description": "(Unofficial) Adds interconnection between resourcepacks and items in Blockgame",
+  "name": "Blockgame Resourcepacks Helper",
+  "description": "(Unofficial) Utility Mod for interacting with Blockgame Items in Resourcepacks",
   "authors": [
-    "BluePanda22 - Creator, Developer"
+    "BluePanda22 - Creator, Developer",
+    "The_Gru - Mod icon, making Cartee do the ears",
+    "CarteeCat - Mod icon, making the ears"
   ],
   "contributors": [],
-  "contact": {},
+  "contact": {
+    "repo": "https://github.com/BluePanda222/BlockgameResourcepacksHelper",
+    "sources": "https://github.com/BluePanda222/BlockgameResourcepacksHelper",
+    "issues": "https://github.com/BluePanda222/BlockgameResourcepacksHelper/issues",
+    "homepage": "https://modrinth.com/project/blockgame-resourcepacks-helper",
+    "wiki": "https://blockgame.piratesoftware.wiki/wiki/Blockgame_Resourcepacks_Helper"
+  },
   "license": "MIT",
-  "icon": "assets/blockgameresourcepacks/icon.png",
+  "icon": "assets/blockgameresourcepackshelper/icon.png",
   "environment": "client",
+  "accessWidener" : "blockgameresourcepackshelper.accesswidener",
   "entrypoints": {
     "client": [
-      "com.bluepanda22.blockgameresourcepacks.Main"
+      {
+        "adapter": "kotlin",
+        "value": "com.bluepanda22.blockgameresourcepackshelper.BlockgameResourcepacksHelperMain"
+      }
     ]
   },
+  "mixins": [
+    {
+      "config": "blockgameresourcepackshelper.client.mixins.json",
+      "environment": "client"
+    }
+  ],
   "depends": {
-    "fabricloader": ">=0.16.13",
-    "fabric": "*"
+    "minecraft": "${minecraft_version}",
+    "fabric": "*",
+    "fabricloader": ">=${loader_version}",
+    "fabric-language-kotlin": ">=${kotlin_loader_version}"
+  },
+  "custom": {
+    "modmenu": {
+      "update_checker": false,
+      "links": {
+        "modmenu.discord": "https://discord.gg/piratesoftware"
+      }
+    }
+  },
+  "suggests": {
+    "modmenu": "*"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.bluepanda22.blockgameresourcepackshelper.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "EquipmentRendererMixin",
+    "ItemStackMixin",
+    "MinecraftClientMixin",
+    "TextureManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
