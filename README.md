@@ -1,5 +1,8 @@
 # Blockgame Resourcepacks Helper
 
+> [!WARNING]
+> _**Blockgame has announced that they will be moving over to Hytale in the near future, thus making this mod obsolete. This mod is now Archived.**_
+
 A mod for Blockgame that enables resourcepacks to interact with the item data of Blockgame items.
 
 Technical documentation of this mod can be found in the [Blockgame wiki](https://blockgame.piratesoftware.wiki/wiki/Blockgame_Resourcepacks_Helper).
